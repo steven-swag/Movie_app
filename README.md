@@ -1,5 +1,7 @@
 # movieDB – Movie Database
 
+Live Page : https://lyhf5m.csb.app/
+
 ## About the Project
 
 movieDB is a React-based movie application that uses The Movie Database (TMDB) API to display movie information. Users can explore popular, top-rated, and upcoming movies, search for movies, and view movie details.
