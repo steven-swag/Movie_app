@@ -7,7 +7,7 @@ Develop an application based on video-on-demand websites that provides an extens
 - Searched Movies Page# Movie Database App
 
 A movie discovery application developed using React.
-Live Link : https://sharonkurattixu9fvrjscpo4lio.drops.nxtwave.tech
+
 
 ## Features
 
